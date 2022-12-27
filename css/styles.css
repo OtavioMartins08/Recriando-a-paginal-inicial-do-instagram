@@ -43,7 +43,7 @@ body {
 .instagram-form {
     border: 1px solid darkgray;
     margin-top: 70px;
-    width: 25rem;
+    width: 28rem;
     height: 65%;
     text-align: center;
     display: flex;
@@ -58,11 +58,10 @@ body {
     min-height: 150px;
 }
 
-
 .login span input{
     margin: 2px;
     height: 35px;
-    width: 15rem;
+    width: 20rem;
 }
 
 .button {
@@ -81,7 +80,7 @@ body {
 
 .instagram-others {
     height: 35%;
-    width: 20rem;
+    width: 0px auto;
 }
 
 .login-facebook {
@@ -105,6 +104,9 @@ body {
 }
 
 .app-download {
+    padding-top: 10px;
+    font-size: 15px;
+    margin: 0px auto;
     width: 20rem;
     height: 14rem; 
     margin-top: 50px;
@@ -113,7 +115,7 @@ body {
 
 .download {
     display: flex;
-    padding: 10px;
+    padding: 10px 0px 20px;
 }
 
 .download-do-aplicativo  img:nth-child(1)  {
